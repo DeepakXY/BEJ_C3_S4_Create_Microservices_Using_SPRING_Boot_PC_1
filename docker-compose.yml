@@ -3,7 +3,7 @@ services:
   customer-service:
     image: customer_image
     container_name: customer-service
-    build: BEJ_C2_S3_REST_API_MONGODB_PC_1
+    build: BEJ_C2_S3_REST_API_MONGODB_PC_1/
     restart: always
     networks:
       - mynetwork

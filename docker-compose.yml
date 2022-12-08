@@ -47,6 +47,14 @@ services:
       MYSQL_PASSWORD: root
       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
 
+  cloudapiservice:
+    image: apigateway-service
+    build: ApiGateWayDemo/
+    restart: always
+    networks:
+      - mynetwork
+    ports:
+      - 9000:9000
 
 
 networks:

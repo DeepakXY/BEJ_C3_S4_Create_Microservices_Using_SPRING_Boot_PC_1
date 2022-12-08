@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d77ec8-acd7-4b4b-88f8-d543205fa38f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/src/main/java/com/niit/ApiGateWayDemo/ApiGateWayDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateWayDemo/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f55f65a8a919ce35cdbe5df844f1da05ead795a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BEJ_C2_S3_REST_API_MONGODB_PC_1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BEJ_C2_S3_REST_API_MONGODB_PC_1/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEJ_C2_S3_REST_API_MONGODB_PC_1/src/test/java/com/example/BEJ_C2_S3_REST_API_MONGODB_PC_1/BejC2S3RestApiMongodbPc1ApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/src/main/java/com/niit/UserAuthentication/compose/docker fcompose file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/src/main/java/com/niit/UserAuthentication/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userauthentication-demo-by-mam-master/src/main/java/com/niit/UserAuthentication/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +56,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/allbackend_ex_zip_spring_framework/MusicService&quot;
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/allbackend_ex_zip_spring_framework/microservices&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UserAuthenticationApplication">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\allbackend_ex_zip_spring_framework\BEJ_C3_S4_Create_Microservices_Using_SPRING_Boot_PC_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BejC2S3RestApiMongodbPc1Application">
     <configuration name="BejC2S3RestApiMongodbPc1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.BEJ_C2_S3_REST_API_MONGODB_PC_1.BejC2S3RestApiMongodbPc1Application" />
       <module name="BEJ_C2_S3_REST_API_MONGODB_PC_1" />
@@ -83,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BejC2S3RestApiMongodbPc1Application" />
         <item itemvalue="Application.UserAuthenticationApplication" />
+        <item itemvalue="Application.BejC2S3RestApiMongodbPc1Application" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +108,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670327202937</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1670392646510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670392646510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +128,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
